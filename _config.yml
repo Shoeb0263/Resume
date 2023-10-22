@@ -14,13 +14,13 @@ resume_name:                    "Mohammed Shoeb"
 resume_title:                   "Student/Learner"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "sk8147268@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "7023027812"
+resume_contact_address:         "13 Pragati Nagar Police Line, Kota Rajasthan"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "13 Pragati Nagar Police Line, Kota Rajasthan • 7023027812 • sk8147268@gmail.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>Adaptable and innovative BTech final year student, equipped with a good foundation in programming languages, software development, and problem-solving. Eager to contribute technical expertise and a passion for cutting-edge technologies to a dynamic team in the field of computer science and technology.</p>"
